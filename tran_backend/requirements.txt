@@ -1,0 +1,8 @@
+Django>=5.2
+djangorestframework>=3.14
+python-dotenv>=1.0
+django-cors-headers>=4.3
+psycopg2-binary>=2.9
+Pillow>=10.0
+firebase-admin>=6.5
+razorpay>=1.4
