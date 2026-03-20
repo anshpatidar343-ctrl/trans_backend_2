@@ -1,10 +1,1 @@
-venv/
-__pycache__/
-*.pyc
-
-.env
 firebase-service-account.json
-
-db.sqlite3
-
-.DS_Store
